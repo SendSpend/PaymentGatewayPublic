@@ -1,0 +1,11 @@
+C:\Users\jable\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.FMMManual\Views\Configure.cshtml
+C:\Users\jable\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.FMMManual\Views\PaymentInfo.cshtml
+C:\Users\jable\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.FMMManual\Description.txt
+C:\Users\jable\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.FMMManual\web.config
+C:\Users\jable\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.FMMManual\logo.jpg
+C:\Users\jable\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.FMMManual\Nop.Plugin.Payments.FMMManual.dll.config
+C:\Users\jable\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.FMMManual\Nop.Plugin.Payments.FMMManual.dll
+C:\Users\jable\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.FMMManual\Nop.Plugin.Payments.FMMManual.pdb
+C:\Users\jable\Documents\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.FMMManual\obj\Debug\Nop.Plugin.Payments.FMMManual.csproj.CoreCompileInputs.cache
+C:\Users\jable\Documents\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.FMMManual\obj\Debug\Nop.Plugin.Payments.FMMManual.dll
+C:\Users\jable\Documents\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.FMMManual\obj\Debug\Nop.Plugin.Payments.FMMManual.pdb

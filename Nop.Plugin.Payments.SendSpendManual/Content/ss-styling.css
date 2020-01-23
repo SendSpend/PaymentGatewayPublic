@@ -1,0 +1,24 @@
+﻿.ss-content-outter-div { margin: 0 auto; display:inline-block; font-family: Helvetica; }
+.ss-content-inner-div { background-color:#356788; padding:20px; margin:10px; border-radius:25px; }
+.ss-content-inner-div .div-logo { text-align:center; padding-bottom:10px; }
+.ss-content-inner-div .div-logo img { width:200px; }
+.ss-hr { border: 2px solid #fff;border-radius:5px; }
+.ss-content-main { border:2px solid #04b9e6; margin:20px; border-radius:10px; padding:10px 40px;  }
+.ss-content-main-ctrl { margin:10px auto;text-align:left; }
+.ss-ctrl-lbl { color:#fff; margin-right:10px; }
+.ss-note { border:2px solid #04b9e6; margin:20px; border-radius:10px; padding:10px 40px; text-align:left; }
+.ss-note span { color:#fff; margin-right:10px; }
+.ss-outer-ul { margin:20px; padding:20px; }
+.float-left img { width:200px; }
+.float-right .div-download { color:#fff; font-size:2.0em; }
+.float-right a img { width:150px; }
+.ss-footer { text-align:center; color:#fff; }
+.ss-footer span a { color:#04b9e6; }
+.ss-clear { clear:both; }
+.ss-ul { list-style: none; padding: 0; }
+.ss-ul li { width:50%; text-align:center; }
+.ss-ul li.float-left { float:left; }
+.ss-ul li.float-right { float:right; }
+@media screen and (max-width: 750px) {
+    .ss-ul li { width: 100%; float:left !important; }
+}

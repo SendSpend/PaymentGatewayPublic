@@ -1,0 +1,21 @@
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.SendSpend\Views\Configure.cshtml
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.SendSpend\Views\PaymentInfo.cshtml
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.SendSpend\Description.txt
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.SendSpend\web.config
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.SendSpend\Views\PaymentInfo - Old.cshtml
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.SendSpend\Content\Images\checkout_button_v2.png
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.SendSpend\Content\ss-styling.css
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.SendSpend\Content\Images\download-button.png
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.SendSpend\logo.png
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.SendSpend\sendspend-logo.png
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.SendSpend\Content\Images\strepLine_logo_white.png
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.SendSpend\Nop.Plugin.Payments.SendSpend.dll.config
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.SendSpend\Nop.Plugin.Payments.SendSpend.dll
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.SendSpend\Nop.Plugin.Payments.SendSpend.pdb
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.SendSpendManual\obj\Debug\Nop.Plugin.Payments.SendSpend.Properties.Resources.resources
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.SendSpendManual\obj\Debug\Nop.Plugin.Payments.SendSpend.csproj.GenerateResource.cache
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.SendSpendManual\obj\Debug\Nop.Plugin.Payments.SendSpend.csproj.CoreCompileInputs.cache
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.SendSpendManual\obj\Debug\Nop.Plugin.Payments.SendSpend.csproj.CopyComplete
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.SendSpendManual\obj\Debug\Nop.Plugin.Payments.SendSpend.dll
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.SendSpendManual\obj\Debug\Nop.Plugin.Payments.SendSpend.pdb
+C:\Users\FMM-VM2\Documents\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.SendSpendManual\obj\Debug\Nop.Plugin.Payments.SendSpend.csprojAssemblyReference.cache

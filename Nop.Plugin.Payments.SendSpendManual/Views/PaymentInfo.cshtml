@@ -1,0 +1,46 @@
+﻿@{
+    Layout = "";
+}
+@model Nop.Plugin.Payments.SendSpend.Models.PaymentInfoModel
+
+<link href="~/plugins/Payments.SendSpend/Content/ss-styling.css" rel="stylesheet" />
+
+<div class="ss-content-outter-div">
+    <div class="ss-content-inner-div">
+        <div class="div-logo">
+            <img src="~/plugins/Payments.SendSpend/Content/Images/strepLine_logo_white.png" alt="SendSpend Logo" />
+        </div>
+        <div class="ss-hr"></div>
+        <div class="ss-content-main">
+            <div class="ss-content-main-ctrl">
+                <span class="ss-ctrl-lbl">Please select a country</span>
+                @Html.DropDownListFor(model => model.Country, Model.Countries, new { @class = "dropdownlists", style = "padding:2px; border-radius:5px; color:#04b9e6; background-color:#356788; border:2px solid #04b9e6;" })
+            </div>
+            <div class="ss-content-main-ctrl">
+                <span class="ss-ctrl-lbl">Enter your registered phone number</span>
+                @Html.TextBoxFor(model => model.PhoneNumber, new { style = "padding:2px; border-radius:5px; color:#04b9e6; background-color:#356788; border:2px solid #04b9e6;", autocomplete = "off", maxlength = 20 })
+
+            </div>
+        </div>
+
+        <div class="ss-note">
+            <span>After placing your order, Please authorise it on your phone.</span>
+        </div>
+        <div class="ss-outer-ul">
+            <ul class="ss-ul">
+                <li class="float-left">
+                    <img src="~/plugins/Payments.SendSpend/Content/Images/checkout_button_v2.png" />
+                </li>
+                <li class="float-right">
+                    <div class="div-download"><a href='https://play.google.com/store/apps?hl=en' target="_blank">Donwload</a></div>
+                    <a href='https://play.google.com/store/apps?hl=en' target="_blank"><img src="~/plugins/Payments.SendSpend/Content/Images/download-button.png" /></a>
+                </li>
+            </ul>
+            <div class="ss-clear"></div>
+        </div>
+        <div class="ss-footer">
+            <span>*Terms and Conditions apply, Click <a href="https://fmmresourcegroup5174.blob.core.windows.net/ssterms/SendSpendTerms.html" target="_blank">HERE</a> to read more.</span>
+        </div>
+    </div>
+    <div class="ss-clear"></div>
+</div>
